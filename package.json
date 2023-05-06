@@ -1,0 +1,19 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Mina Samir",
+  "license": "ISC",
+  "dependencies": {
+    "fractional": "^1.0.0",
+    "geometric": "^2.5.2",
+    "parcel": "^2.8.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3"
+  }
+}
